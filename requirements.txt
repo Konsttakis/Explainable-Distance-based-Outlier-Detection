@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+statsmodels
+tsfresh
+tsfel
+hurst
+prts
+tqdm
